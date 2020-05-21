@@ -36,15 +36,14 @@ Windows (opcional):
 
 ## Usando Íbex
 
-Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
+Para usar o Íbex, siga os seguintes passos:
 
+*Abra-o em seu editor de texto e depois ligue seu servidor local
 * Abra o navegador e digite o seguinte endereço: `http://localhost/....`
 * Ao abrir a aplicação você poderá:
-  * Navegar pelo conteúdo público, ou
-  * Entrar com usuário e senha para ....
-* *Continua ...*  
+  * Navegar pela home page
+  * Entrar com usuário e senha para vender e comprar produtos
 
-*Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
 
 ## Contribuidores
 
@@ -57,5 +56,4 @@ As seguintes pessoas contribuiram para este projeto:
 
 ## Licença de uso
 
-<!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
 Este projeto usa a seguinte licença: [BY-NC 3.0](<https://creativecommons.org/licenses/by-nc/3.0/br/>).
