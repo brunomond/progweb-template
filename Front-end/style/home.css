@@ -2,6 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     border: 0px;
+    height: 100vh;
 }
 #header-index {
     display: flex;
@@ -54,8 +55,8 @@ body {
 }
 
 .img-header{
-    height: 9rem;
-    width: 5rem;
+    height: 6rem;
+    width: 4rem;
     justify-self: start;
 }
 #task-bar{
@@ -80,4 +81,27 @@ body {
     color: #FFF;
     font-family: 'Roboto';
     font-weight: bold;
+}
+
+.rounded-15{
+    border-radius: 15px;
+}
+
+.h-full{
+    height: calc(100% - 6rem);
+    overflow-y: hidden;
+}
+
+.bg-grey{
+    background-color: #2e82d1;
+}
+
+.no-change-link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.no-change-link:hover{
+    text-decoration: none;
+    color: inherit;
 }
